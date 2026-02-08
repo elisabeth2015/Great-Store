@@ -1,4 +1,4 @@
-# React E-Commerce Project — Beginner to Full App
+# React E-Commerce Project — Great Store
 
 This repository contains the complete *React e-commerce application*
 
@@ -355,4 +355,5 @@ After finishing this project, you can:
 - Deploy production apps
 
 ---
+
 
